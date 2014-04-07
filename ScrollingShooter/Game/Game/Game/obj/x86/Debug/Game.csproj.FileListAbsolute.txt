@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\Game\bin\x86\Debug\Content\Fonts\Times New Roman.xnb

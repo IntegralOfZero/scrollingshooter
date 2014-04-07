@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\Constant\Programming\XNA\ScrollingShooter\Game\Game\GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Constant\Programming\XNA\ScrollingShooter\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache

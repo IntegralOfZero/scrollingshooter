@@ -1,0 +1,13 @@
+Content\player.xnb
+Content\Enemies\Enemy_Silver.xnb
+Content\EnemyWeapons\BulletRed.xnb
+Content\PlayerWeapons\PlayerBullet.xnb
+Content\Buttons\mainmenu.xnb
+Content\Buttons\restart.xnb
+Content\SpaceBackground.xnb
+Content\Enemies\Enemy_Sphere.xnb
+Content\EnemyWeapons\Fireball.xnb
+Content\PowerUps\Screen_Cannon.xnb
+Content\PowerUps\X_Blaster.xnb
+Content\PlayerWeapons\SpreadBullet.xnb
+Content\Fonts\TimesNewRoman.xnb
